@@ -23,6 +23,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rubocop'
   spec.add_development_dependency 'rspec', '~> 3.4.0'
 
-  spec.add_dependency 'phantomjs', '~> 2.1.1'
+  spec.add_dependency 'phantomjs'
   spec.add_dependency 'mini_magick', '~> 4.2'
 end
